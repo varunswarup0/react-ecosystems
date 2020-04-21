@@ -11,3 +11,15 @@ React is rarely used by itself. As a result, working effectively with React—es
 * Type checking in React
 
 ![projectPreview](https://github.com/varunswarup0/react-ecosystems/blob/master/BigOne.gif)
+
+* Building more maintainable and robust React applications
+* Installing React and other tools
+* Adding Redux
+* Dealing with side effects
+* Libraries for dealing with side effects
+* Styling React apps more effectively with styled-components
+* Using React hooks
+* React fragments
+* Testing Redux, Redux-Thunk, Reselect, and styled-components
+
+Uses some of the most important tools in the React ecosystem that simplify development and manage the complexities of state, side effects, structure, and styling.I try to create a basic React project, and then add Redux, create thunks, use selectors, work with styled-components, perform testing, and more.
